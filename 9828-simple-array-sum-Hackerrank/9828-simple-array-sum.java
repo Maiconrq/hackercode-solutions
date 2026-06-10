@@ -25,6 +25,7 @@ class Result {
             sum = sum + ar.get(i);
         }
         return sum;
+
     }
 
 }
